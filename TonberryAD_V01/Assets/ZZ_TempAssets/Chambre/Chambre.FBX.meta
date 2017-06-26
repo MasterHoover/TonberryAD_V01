@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 62488d716abfc7e428d5bd2231f2bcc1
+timeCreated: 1458771392
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abajour
+    100002: anneau a rideau 01
+    100004: anneau a rideau 02
+    100006: anneau a rideau 03
+    100008: anneau a rideau 04
+    100010: anneau a rideau 05
+    100012: anneau a rideau 06
+    100014: anneau a rideau 07
+    100016: anneau a rideau 08
+    100018: anneau a rideau 09
+    100020: anneau a rideau 10
+    100022: anneau a rideau 11
+    100024: anneau a rideau 12
+    100026: anneau a rideau 13
+    100028: anneau a rideau 14
+    100030: anneau a rideau 15
+    100032: anneau a rideau 16
+    100034: anneau a rideau 17
+    100036: anneau a rideau 18
+    100038: anneau a rideau 19
+    100040: anneau a rideau 2
+    100042: anneau a rideau 20
+    100044: anneau a rideau 21
+    100046: anneau a rideau 22
+    100048: anneau a rideau 23
+    100050: anneau a rideau 24
+    100052: anneau a rideau 25
+    100054: Armoire
+    100056: Assiette 1
+    100058: Assiette 2
+    100060: Assiette 3
+    100062: Assiette 4
+    100064: cadre photo 1
+    100066: cadre photo 2
+    100068: cadre photo 3
+    100070: cadre photo 4
+    100072: chaise
+    100074: //RootNode
+    100076: Commode
+    100078: Cord de porte
+    100080: Corps de fenetre 002
+    100082: Corps de fenetre 01
+    100084: Coussin rond4
+    100086: Coussin1
+    100088: Coussin5
+    100090: Couverture de lit
+    100092: lit
+    100094: Matlas de fenetre
+    100096: moulure lit
+    100098: Mur - Chambre
+    100100: peinture 1
+    100102: peinture 2
+    100104: peinture 3
+    100106: peinture 4
+    100108: Pied
+    100110: plancher
+    100112: poigner de bureau 3
+    100114: poignier 017
+    100116: poignier 1
+    100118: poignier bureau 5
+    100120: poignier de bureau 2
+    100122: poignier de bureau 4
+    100124: Poubelle
+    100126: Pouf
+    100128: rack a assiette
+    100130: rideau 1
+    100132: rideau 2
+    100134: rideau 3
+    100136: rideau 4
+    100138: rideau 5
+    100140: Tabouret
+    100142: Tapis
+    100144: vitre de cadre 1
+    100146: vitre de cadre 2
+    100148: vitre de cadre 3
+    100150: vitre de cadre 4
+    100152: vitre de fenetre 1
+    100154: vitre fenetre 2
+    100156: vitre fenetre 3
+    100158: vitre fenetre 4
+    100160: vitre fenetre 5
+    100162: vitre fenetre 6
+    100164: VItre fenetre 7
+    100166: vitre fenetre 8
+    400000: Abajour
+    400002: anneau a rideau 01
+    400004: anneau a rideau 02
+    400006: anneau a rideau 03
+    400008: anneau a rideau 04
+    400010: anneau a rideau 05
+    400012: anneau a rideau 06
+    400014: anneau a rideau 07
+    400016: anneau a rideau 08
+    400018: anneau a rideau 09
+    400020: anneau a rideau 10
+    400022: anneau a rideau 11
+    400024: anneau a rideau 12
+    400026: anneau a rideau 13
+    400028: anneau a rideau 14
+    400030: anneau a rideau 15
+    400032: anneau a rideau 16
+    400034: anneau a rideau 17
+    400036: anneau a rideau 18
+    400038: anneau a rideau 19
+    400040: anneau a rideau 2
+    400042: anneau a rideau 20
+    400044: anneau a rideau 21
+    400046: anneau a rideau 22
+    400048: anneau a rideau 23
+    400050: anneau a rideau 24
+    400052: anneau a rideau 25
+    400054: Armoire
+    400056: Assiette 1
+    400058: Assiette 2
+    400060: Assiette 3
+    400062: Assiette 4
+    400064: cadre photo 1
+    400066: cadre photo 2
+    400068: cadre photo 3
+    400070: cadre photo 4
+    400072: chaise
+    400074: //RootNode
+    400076: Commode
+    400078: Cord de porte
+    400080: Corps de fenetre 002
+    400082: Corps de fenetre 01
+    400084: Coussin rond4
+    400086: Coussin1
+    400088: Coussin5
+    400090: Couverture de lit
+    400092: lit
+    400094: Matlas de fenetre
+    400096: moulure lit
+    400098: Mur - Chambre
+    400100: peinture 1
+    400102: peinture 2
+    400104: peinture 3
+    400106: peinture 4
+    400108: Pied
+    400110: plancher
+    400112: poigner de bureau 3
+    400114: poignier 017
+    400116: poignier 1
+    400118: poignier bureau 5
+    400120: poignier de bureau 2
+    400122: poignier de bureau 4
+    400124: Poubelle
+    400126: Pouf
+    400128: rack a assiette
+    400130: rideau 1
+    400132: rideau 2
+    400134: rideau 3
+    400136: rideau 4
+    400138: rideau 5
+    400140: Tabouret
+    400142: Tapis
+    400144: vitre de cadre 1
+    400146: vitre de cadre 2
+    400148: vitre de cadre 3
+    400150: vitre de cadre 4
+    400152: vitre de fenetre 1
+    400154: vitre fenetre 2
+    400156: vitre fenetre 3
+    400158: vitre fenetre 4
+    400160: vitre fenetre 5
+    400162: vitre fenetre 6
+    400164: VItre fenetre 7
+    400166: vitre fenetre 8
+    2300000: Abajour
+    2300002: anneau a rideau 01
+    2300004: anneau a rideau 02
+    2300006: anneau a rideau 03
+    2300008: anneau a rideau 04
+    2300010: anneau a rideau 05
+    2300012: anneau a rideau 06
+    2300014: anneau a rideau 07
+    2300016: anneau a rideau 08
+    2300018: anneau a rideau 09
+    2300020: anneau a rideau 10
+    2300022: anneau a rideau 11
+    2300024: anneau a rideau 12
+    2300026: anneau a rideau 13
+    2300028: anneau a rideau 14
+    2300030: anneau a rideau 15
+    2300032: anneau a rideau 16
+    2300034: anneau a rideau 17
+    2300036: anneau a rideau 18
+    2300038: anneau a rideau 19
+    2300040: anneau a rideau 2
+    2300042: anneau a rideau 20
+    2300044: anneau a rideau 21
+    2300046: anneau a rideau 22
+    2300048: anneau a rideau 23
+    2300050: anneau a rideau 24
+    2300052: anneau a rideau 25
+    2300054: Armoire
+    2300056: Assiette 1
+    2300058: Assiette 2
+    2300060: Assiette 3
+    2300062: Assiette 4
+    2300064: cadre photo 1
+    2300066: cadre photo 2
+    2300068: cadre photo 3
+    2300070: cadre photo 4
+    2300072: chaise
+    2300074: Commode
+    2300076: Cord de porte
+    2300078: Corps de fenetre 002
+    2300080: Corps de fenetre 01
+    2300082: Coussin rond4
+    2300084: Coussin1
+    2300086: Coussin5
+    2300088: Couverture de lit
+    2300090: lit
+    2300092: Matlas de fenetre
+    2300094: moulure lit
+    2300096: Mur - Chambre
+    2300098: peinture 1
+    2300100: peinture 2
+    2300102: peinture 3
+    2300104: peinture 4
+    2300106: Pied
+    2300108: plancher
+    2300110: poigner de bureau 3
+    2300112: poignier 017
+    2300114: poignier 1
+    2300116: poignier bureau 5
+    2300118: poignier de bureau 2
+    2300120: poignier de bureau 4
+    2300122: Poubelle
+    2300124: Pouf
+    2300126: rack a assiette
+    2300128: rideau 1
+    2300130: rideau 2
+    2300132: rideau 3
+    2300134: rideau 4
+    2300136: rideau 5
+    2300138: Tabouret
+    2300140: Tapis
+    2300142: vitre de cadre 1
+    2300144: vitre de cadre 2
+    2300146: vitre de cadre 3
+    2300148: vitre de cadre 4
+    2300150: vitre de fenetre 1
+    2300152: vitre fenetre 2
+    2300154: vitre fenetre 3
+    2300156: vitre fenetre 4
+    2300158: vitre fenetre 5
+    2300160: vitre fenetre 6
+    2300162: VItre fenetre 7
+    2300164: vitre fenetre 8
+    3300000: Abajour
+    3300002: anneau a rideau 01
+    3300004: anneau a rideau 02
+    3300006: anneau a rideau 03
+    3300008: anneau a rideau 04
+    3300010: anneau a rideau 05
+    3300012: anneau a rideau 06
+    3300014: anneau a rideau 07
+    3300016: anneau a rideau 08
+    3300018: anneau a rideau 09
+    3300020: anneau a rideau 10
+    3300022: anneau a rideau 11
+    3300024: anneau a rideau 12
+    3300026: anneau a rideau 13
+    3300028: anneau a rideau 14
+    3300030: anneau a rideau 15
+    3300032: anneau a rideau 16
+    3300034: anneau a rideau 17
+    3300036: anneau a rideau 18
+    3300038: anneau a rideau 19
+    3300040: anneau a rideau 2
+    3300042: anneau a rideau 20
+    3300044: anneau a rideau 21
+    3300046: anneau a rideau 22
+    3300048: anneau a rideau 23
+    3300050: anneau a rideau 24
+    3300052: anneau a rideau 25
+    3300054: Armoire
+    3300056: Assiette 1
+    3300058: Assiette 2
+    3300060: Assiette 3
+    3300062: Assiette 4
+    3300064: cadre photo 1
+    3300066: cadre photo 2
+    3300068: cadre photo 3
+    3300070: cadre photo 4
+    3300072: chaise
+    3300074: Commode
+    3300076: Cord de porte
+    3300078: Corps de fenetre 002
+    3300080: Corps de fenetre 01
+    3300082: Coussin rond4
+    3300084: Coussin1
+    3300086: Coussin5
+    3300088: Couverture de lit
+    3300090: lit
+    3300092: Matlas de fenetre
+    3300094: moulure lit
+    3300096: Mur - Chambre
+    3300098: peinture 1
+    3300100: peinture 2
+    3300102: peinture 3
+    3300104: peinture 4
+    3300106: Pied
+    3300108: plancher
+    3300110: poigner de bureau 3
+    3300112: poignier 017
+    3300114: poignier 1
+    3300116: poignier bureau 5
+    3300118: poignier de bureau 2
+    3300120: poignier de bureau 4
+    3300122: Poubelle
+    3300124: Pouf
+    3300126: rack a assiette
+    3300128: rideau 1
+    3300130: rideau 2
+    3300132: rideau 3
+    3300134: rideau 4
+    3300136: rideau 5
+    3300138: Tabouret
+    3300140: Tapis
+    3300142: vitre de cadre 1
+    3300144: vitre de cadre 2
+    3300146: vitre de cadre 3
+    3300148: vitre de cadre 4
+    3300150: vitre de fenetre 1
+    3300152: vitre fenetre 2
+    3300154: vitre fenetre 3
+    3300156: vitre fenetre 4
+    3300158: vitre fenetre 5
+    3300160: vitre fenetre 6
+    3300162: VItre fenetre 7
+    3300164: vitre fenetre 8
+    4300000: Mur - Chambre
+    4300002: Cord de porte
+    4300004: Corps de fenetre 01
+    4300006: Corps de fenetre 002
+    4300008: Pouf
+    4300010: lit
+    4300012: Poubelle
+    4300014: Commode
+    4300016: poignier 017
+    4300018: Tapis
+    4300020: Tabouret
+    4300022: Armoire
+    4300024: poignier 1
+    4300026: cadre photo 4
+    4300028: cadre photo 2
+    4300030: cadre photo 3
+    4300032: cadre photo 1
+    4300034: plancher
+    4300036: chaise
+    4300038: Matlas de fenetre
+    4300040: rack a assiette
+    4300042: Abajour
+    4300044: Pied
+    4300046: Coussin1
+    4300048: Coussin rond4
+    4300050: Coussin5
+    4300052: anneau a rideau 02
+    4300054: anneau a rideau 03
+    4300056: anneau a rideau 05
+    4300058: anneau a rideau 06
+    4300060: anneau a rideau 07
+    4300062: anneau a rideau 08
+    4300064: anneau a rideau 09
+    4300066: anneau a rideau 10
+    4300068: anneau a rideau 11
+    4300070: anneau a rideau 12
+    4300072: anneau a rideau 04
+    4300074: anneau a rideau 13
+    4300076: anneau a rideau 01
+    4300078: anneau a rideau 14
+    4300080: anneau a rideau 15
+    4300082: anneau a rideau 16
+    4300084: anneau a rideau 17
+    4300086: anneau a rideau 18
+    4300088: anneau a rideau 19
+    4300090: anneau a rideau 20
+    4300092: anneau a rideau 21
+    4300094: anneau a rideau 22
+    4300096: anneau a rideau 23
+    4300098: anneau a rideau 24
+    4300100: Couverture de lit
+    4300102: rideau 1
+    4300104: vitre fenetre 3
+    4300106: rideau 3
+    4300108: vitre fenetre 2
+    4300110: vitre fenetre 4
+    4300112: vitre fenetre 5
+    4300114: rideau 5
+    4300116: vitre de fenetre 1
+    4300118: vitre fenetre 6
+    4300120: moulure lit
+    4300122: VItre fenetre 7
+    4300124: vitre fenetre 8
+    4300126: peinture 1
+    4300128: peinture 2
+    4300130: peinture 3
+    4300132: peinture 4
+    4300134: vitre de cadre 4
+    4300136: vitre de cadre 3
+    4300138: vitre de cadre 1
+    4300140: vitre de cadre 2
+    4300142: Assiette 1
+    4300144: poigner de bureau 3
+    4300146: poignier de bureau 2
+    4300148: Assiette 3
+    4300150: Assiette 2
+    4300152: Assiette 4
+    4300154: rideau 2
+    4300156: rideau 4
+    4300158: anneau a rideau 2
+    4300160: anneau a rideau 25
+    4300162: poignier bureau 5
+    4300164: poignier de bureau 4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
