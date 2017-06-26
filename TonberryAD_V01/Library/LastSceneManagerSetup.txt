@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/Level Design/Lidiko/Lidiko_OverView.unity
+  isLoaded: 1
+  isActive: 1
