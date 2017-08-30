@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Level Design/Old Forest/Forest.unity
+- path: Assets/Scenes/Level Design/Old Forest/OC_Ballroom.unity
   isLoaded: 1
   isActive: 1
